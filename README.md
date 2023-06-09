@@ -1,1 +1,1 @@
-Este proyecto es una pruebe de cómo crear un repositorio desde Git Hub y clonarlo a mi compu
+Este proyecto es una prueba para poner en práctica React.
